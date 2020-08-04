@@ -1,5 +1,8 @@
 module.exports = {
-  globalSetup: './setup.js',
-  globalTeardown: './teardown.js',
-  testEnvironment: './puppeteer_environment.js',
+  globalSetup:  './jest_config/setup.js',
+  globalTeardown: './jest_config/teardown.js',
+  testEnvironment: './jest_config/puppeteer_environment.js',
+  testResultsProcessor: "./node_modules/jest-stare",
+  //testPathIgnorePatterns:,
+  verbose: true,
 }

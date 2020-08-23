@@ -5,4 +5,5 @@ module.exports = {
   testResultsProcessor: "./node_modules/jest-stare",
   //testPathIgnorePatterns:,
   verbose: true,
+  "testMatch": ["**/*.steps.js"],
 }

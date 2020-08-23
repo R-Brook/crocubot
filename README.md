@@ -1,4 +1,4 @@
-# crocobot :crocodile::robot:
+# crocubot :crocodile::robot:
 ## snappy automated testing
 
 Initial Puppeteer setup forked from [@xfumihiro](https://github.com/xfumihiro/jest-puppeteer-example)

@@ -1,4 +1,4 @@
-# crocobot :crocodile::robot:
+# crocubot :crocodile::robot:
 
 **snappy automated testing**
 
